@@ -1,2 +1,2 @@
-# test
-test repository
+# npm-test
+A repository for testing npm.
